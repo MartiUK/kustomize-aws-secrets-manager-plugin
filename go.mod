@@ -5,5 +5,5 @@ go 1.12
 require (
 	github.com/aws/aws-sdk-go v1.24.6
 	sigs.k8s.io/kustomize/v3 v3.2.0
-	sigs.k8s.io/yaml v1.1.0
+	sigs.k8s.io/yaml v1.2.0
 )
